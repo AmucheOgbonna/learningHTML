@@ -1,0 +1,12 @@
+table{
+    border:   solid black;
+    width: 100%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+table , th {
+    background-color: antiquewhite;
+    height: 40px;}
+td{width:10%;}
+input{width:85%;}
+
+/* th{border: 20px border-style solid black;} */
