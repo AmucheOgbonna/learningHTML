@@ -1,0 +1,178 @@
+.padding-top{
+	padding-top:200px;
+}
+
+.padding-top p{
+	text-align: justify;
+	font-family: 'Stoke', serif;
+}
+
+h3{
+	font-family: 'Staatliches', cursive;
+	color: blue;
+}
+
+/*Universal Section*/
+
+
+
+
+/*header section*/
+.navbar-dark .navbar-nav .nav-link{
+	color:black;
+	font-family: 'Staatliches', cursive;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+	color: blue;
+}
+
+
+#sidebar-menu li{
+	border-left:2px solid #e1dddd;
+}
+
+/*Header section end here*/
+
+
+
+/*Furniture start*/
+#furniture{
+	background-image: url(../images/opendesk.jpg);
+	height:750px;
+	width: 100%;
+}
+
+#furniture .btn-success{
+	background-color:blue;
+	border-color:blue;
+}
+
+#furniture .btn-success:hover{
+	background-color:transparent;
+	color: blue;
+	border-color:blue;
+}
+
+#furniture .design{
+	margin-bottom:60px;
+}
+
+
+#furniture .bg-dark{
+	padding:10px;
+	background-color:#a1a1a1!important;
+}
+
+#furniture .bg-dark:hover{
+	background-color:blue!important;
+}
+
+ /*END OF FURNITURE*/
+
+
+
+ /*START OF product*/
+ #product{
+ 	background-color:#f1f1f1;
+ 	padding:60px;
+ }
+
+  #product .col-4{
+  	border:5px solid #efeded;
+  }
+
+   #product .col-4:hover{
+   	background-color:#e9e8e6;
+   }
+
+   /*END OF PRODUCT*/
+
+   /*how-it-work START HERE */
+
+   #how-it-work{
+   	background-color:#f2efef;
+   	padding:60px;
+   	margin-bottom:30px;
+   }
+
+   #how-it-work .icon{
+   	font-size:70px;
+   	padding-bottom:30px;
+   }
+
+   #how-it-work .work{
+   	padding:30px;
+   }
+
+   #how-it-work h4{
+   	font-size:20px;
+   }
+
+   /*HOW IT WORK END HERE*/
+
+
+   /*CLIENT START HERE*/
+   #client{
+   	padding:60px;
+   }
+
+   /*CLIENT END HERE*/
+
+
+   /*Workplaces start here*/
+   #workplaces .btn-light{
+   		background-color: #f8f9faba;
+
+   }
+
+   /*End of workpleaces*/
+
+
+   /*Start of partner*/
+
+   #partner{
+   	padding:60px;
+   }
+
+
+
+
+
+
+
+
+
+#global{
+	background-image: url(../images/man.jpg);
+	height:750px;
+	width: 100%;
+}
+
+
+
+#workplaces{
+	background-image: url(../images/peopleBench.jpg);
+	height:750px;
+	width: 100%;
+}
+
+
+
+
+/*FOOTER START HERE*/
+footer .navbar .nav-link{
+	color: white;
+}
+
+footer hr{
+	 border-color:white;
+	 border-style: dotted;
+}
+
+
+
+
+
+
+
