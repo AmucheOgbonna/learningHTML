@@ -1,0 +1,31 @@
+body{
+background-image: url(todo.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+div{
+    width:50%;
+    height:100%;
+    border:1px;
+    padding: 50px;
+    margin-left: 280px;
+    margin-top: 20px;
+    background-color: white;
+}
+header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+   font-size: 40px;
+}
+tr {
+    height: 10px;
+    vertical-align: bottom;
+    padding: 100px;
+} 
+ul{
+    list-style-type:circle ;
+}
+#one{
+    height: 15px;
+}
