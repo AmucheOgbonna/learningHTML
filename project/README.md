@@ -1,5 +1,5 @@
 
-<h1 align="center">Life Html & Css Illustrated</h1>
+<h1 align="center">A bootstrap website</h1>
 <p>
 <img src="https://img.shields.io/badge/madeby-AmucheOgbonna-<green>">
 <img src="https://img.shields.io/badge/-html5-<blue>">
