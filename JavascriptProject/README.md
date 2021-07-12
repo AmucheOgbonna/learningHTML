@@ -2,8 +2,8 @@
 <h1 align="center">A simple quiz app with timer Javascript</h1>
 <p>
 <img src="https://img.shields.io/badge/madeby-AmucheOgbonna-<green>">
-<img src="https://img.shields.io/badge/html5<blue>">
-<img src="https://img.shields.io/badge/Javascript<blue>">
+<img src="https://img.shields.io/badge/-html5-<blue>">
+<img src="https://img.shields.io/badge/-Javascript-<blue>">
   
 </p>
 
