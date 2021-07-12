@@ -2,8 +2,8 @@
 <h1 align="center">Life Html & Css Illustrated</h1>
 <p>
 <img src="https://img.shields.io/badge/madeby-AmucheOgbonna-<green>">
-<img src="https://img.shields.io/badge/html5<blue>">
-<img src="https://img.shields.io/badge/css3<blue>">
+<img src="https://img.shields.io/badge/-html5-<blue>">
+<img src="https://img.shields.io/badge/-css3-<blue>">
 </p>
 
 ---
