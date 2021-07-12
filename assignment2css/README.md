@@ -8,12 +8,13 @@
 
 ---
 This a simple webpage styled using css
+---
 ##Project SetUp
 ```
 Installation
 ```
-Install a web browser like for `https://www.google.com/` 
-Install a text editor or a code editor like VS code `https://code.visualstudio.com/download` 
+Install a web browser like for `https://www.google.com/` .
+<p>Install a text editor or a code editor like VS code `https://code.visualstudio.com/download` </p>
 
 #Usage
 Clone this repository. Open index.html in your webbrowser
