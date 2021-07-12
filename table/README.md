@@ -1,5 +1,5 @@
 
-<h1 align="center">Life Html & Css Illustrated</h1>
+<h1 align="center">A simple table in html</h1>
 <p>
 <img src="https://img.shields.io/badge/madeby-AmucheOgbonna-<green>">
 <img src="https://img.shields.io/badge/-html5-<blue>">
@@ -18,7 +18,7 @@ install a text editor  or a code editor like VS code `https://code.visualstudio.
 #Usage
 ---
 Clone this repository
-Open `depressed.html` in your webbrowser
+Open `table.html` in your webbrowser
 
 #Contact Information
 ---
