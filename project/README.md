@@ -21,7 +21,7 @@ To download and host Bootstrap yourself, go to `getbootstrap.com`, and follow th
 #Usage
 ---
 Clone this repository
-Open `depressed.html` in your webbrowser
+Open `index.html` in your webbrowser
 
 #Contact Information
 ---
